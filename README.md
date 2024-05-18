@@ -16,4 +16,9 @@ Aqui definiremos el get y post
 ![Captura de pantalla (2172)](https://github.com/AbarcaBryan/libros/assets/169930464/d7b1dfa2-c03d-41cf-857b-2e6fdc61fdbf)
 
 # Creación del repository:
-Para definir los metodos
+"LibroRepository.java": Definimos los metodos, que vamos a utilizar
+![Captura de pantalla (2173)](https://github.com/AbarcaBryan/libros/assets/169930464/ba3391e4-ee25-4f8d-82ff-f846df08085f)
+
+"LibroRepositoryDemo.java" y "LibroRepositoryImpl.java": Definimos la base de datos que contendrá objetos quemados de los libros
+![Captura de pantalla (2174)](https://github.com/AbarcaBryan/libros/assets/169930464/14d3d822-b4da-4455-a592-0a7e3274631a)
+![Captura de pantalla (2183)](https://github.com/AbarcaBryan/libros/assets/169930464/e7017642-57a6-4b77-a266-6404417b2c2d)
