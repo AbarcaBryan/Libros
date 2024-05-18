@@ -17,6 +17,7 @@ Aqui definiremos el get y post
 
 # Creación del repository:
 "LibroRepository.java": Definimos los metodos, que vamos a utilizar
+
 ![Captura de pantalla (2173)](https://github.com/AbarcaBryan/libros/assets/169930464/ba3391e4-ee25-4f8d-82ff-f846df08085f)
 
 "LibroRepositoryDemo.java" y "LibroRepositoryImpl.java": Definimos la base de datos que contendrá objetos quemados de los libros
