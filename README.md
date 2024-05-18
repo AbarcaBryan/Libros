@@ -6,4 +6,5 @@ titulo: String
 autor: String
 editorial: String
 anioPublicacion: Integer
+
 ![Captura de pantalla (2171)](https://github.com/AbarcaBryan/libros/assets/169930464/d6c82a33-6720-46bb-84cc-5eda204db962)
