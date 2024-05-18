@@ -13,5 +13,6 @@ anioPublicacion: Integer
 # Creación del controllers:
 Aqui definiremos el get y post
 ![Captura de pantalla (2172)](https://github.com/AbarcaBryan/libros/assets/169930464/d7b1dfa2-c03d-41cf-857b-2e6fdc61fdbf)
+
 # Creación del repository:
 Para definir los metodos
