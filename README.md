@@ -35,7 +35,7 @@ Se encargara de llamar a la instancia repository "LibroService.java" y el "Libro
 ![Captura de pantalla (2178)](https://github.com/AbarcaBryan/libros/assets/169930464/fe8af685-7f8e-4349-b6e8-5a9905f200c1)
 
 # Prueba en postman:
-![Captura de pantalla (2181)](https://github.com/AbarcaBryan/libros/assets/169930464/74e0251c-2d5e-4c7a-af77-ff64474a7e9d)
-![Captura de pantalla (2180)](https://github.com/AbarcaBryan/libros/assets/169930464/b4d6a771-0239-466d-80c0-7d409d985fd1)
-![Captura de pantalla (2179)](https://github.com/AbarcaBryan/libros/assets/169930464/cfab7e44-8946-4923-b82c-270264044dbd)
-
+![Captura de pantalla (2179)](https://github.com/AbarcaBryan/libros/assets/169930464/54be26db-725d-4a00-9121-8e2dc8eb152d)
+![Captura de pantalla (2180)](https://github.com/AbarcaBryan/libros/assets/169930464/ebdc5d04-def9-4371-9390-15b90967a20a)
+![Captura de pantalla (2181)](https://github.com/AbarcaBryan/libros/assets/169930464/819e007e-4e6a-4e08-ad2e-af2bac6ce5da)
+![Captura de pantalla (2182)](https://github.com/AbarcaBryan/libros/assets/169930464/6262b2bf-a2bf-4bc8-b5f4-20429e155e5b)
